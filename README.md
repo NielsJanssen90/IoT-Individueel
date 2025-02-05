@@ -22,4 +22,4 @@ Dit project is een IoT-oplossing die lichtintensiteit en temperatuur meet en dez
 
 ### Youtube Video
 
-📺 **Demo Video:** [Watch on YouTube](https://youtu.be/QeFEIOU8W2E)
+📺 **Demo Video:** [Kijk op youtube](https://youtu.be/QeFEIOU8W2E)
