@@ -20,15 +20,6 @@ Dit project is een IoT-oplossing die lichtintensiteit en temperatuur meet en dez
 ### Blokschema
 ![Circuit Diagram](Diagram.png)
 
-## 🚀 Installatie en Gebruik
-### Vereisten
-- **Orange Pi 3 LTS** met **Armbian OS**
-- Python 3 geïnstalleerd
-- **WiringPi** en **smbus2** bibliotheken geïnstalleerd
-- **Internetverbinding** voor ThingSpeak-updates
+### Youtube Video
 
-### Installatie
-1. **Clone de repository**
-   ```sh
-   git clone https://github.com/jouw-gebruikersnaam/iot-smart-light.git
-   cd iot-smart-light
+![Youtube Video link](https://youtu.be/QeFEIOU8W2E)
