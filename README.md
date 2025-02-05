@@ -16,10 +16,10 @@ Dit project is een IoT-oplossing die lichtintensiteit en temperatuur meet en dez
 
 ## 📸 Foto's en Schema
 ### Opstelling
-![Breadboard](./images/setup.jpg)
+![Breadboard](breadboard.jpg)
 
 ### Blokschema
-![Circuit Diagram](./images/circuit-diagram.png)
+![Circuit Diagram](diagram.png)
 
 ## 🚀 Installatie en Gebruik
 ### Vereisten
