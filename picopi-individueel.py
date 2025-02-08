@@ -8,8 +8,8 @@ from digitalio import DigitalInOut, Direction, Pull
 # --------------------------------------------------------------------------------
 #                      Wi-Fi + MQTT Configuratie
 # --------------------------------------------------------------------------------
-SSID = "Unifi"
-PASSWORD = "1840Elitekiller!"
+SSID = "IoT"
+PASSWORD = "IoTPassword"
 
 # ThingSpeak MQTT-configuratie
 MQTT_BROKER = "mqtt3.thingspeak.com"
